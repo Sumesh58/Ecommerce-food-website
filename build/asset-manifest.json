@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sumeshfood/static/css/main.30d7bfa0.css",
+    "main.js": "/Sumeshfood/static/js/main.a8e49458.js",
+    "index.html": "/Sumeshfood/index.html",
+    "main.30d7bfa0.css.map": "/Sumeshfood/static/css/main.30d7bfa0.css.map",
+    "main.a8e49458.js.map": "/Sumeshfood/static/js/main.a8e49458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30d7bfa0.css",
+    "static/js/main.a8e49458.js"
+  ]
+}
